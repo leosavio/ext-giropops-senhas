@@ -6,8 +6,6 @@ KIND_VERSION ?= 0.18.0
 GIROPOPS_SENHAS_VERSION ?= 1.0
 GIROPOPS_LOCUST_VERSION ?= 1.0
 
-#METALLB_IP_RANGE ?= 172.18.0.240-172.18.0.250
-
 # Definir o sistema operacional
 OS := $(shell uname -s)
 
